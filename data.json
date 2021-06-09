@@ -1,0 +1,14 @@
+{
+    "name" : "Buylist",
+    "version" : "1.75 RC - 30.05.2021 21:30",
+    "buylist" : [
+        {"name":"★ StatTrak™ M9 Bayonet | Doppler (Factory New)", "priceToBuy":382},
+        {"name":"★ StatTrak™ M9 Bayonet | Doppler (Factory New) P2", "priceToBuy":425},
+        {"name":"★ StatTrak™ M9 Bayonet | Doppler (Factory New) P4", "priceToBuy":442},
+        {"name":"★ StatTrak™ M9 Bayonet | Doppler (Factory New) BP", "priceToBuy":1450, "priceLowFloat":1500, "lowFloat":0.01}, 
+        {"name":"★ StatTrak™ M9 Bayonet | Doppler (Factory New) Ruby", "priceToBuy":4600, "priceLowFloat":5000, "lowFloat":0.01},
+        {"name":"★ StatTrak™ M9 Bayonet | Doppler (Minimal Wear) Sapphire", "priceToBuy":4400},
+        {"name":"Desert Eagle | Trigger Discipline (Factory New)", "priceToBuy":12.8, "priceLowFloat":20, "lowFloat":0.01},
+        {"name":"Desert Eagle | Trigger Discipline (Minimal Wear)", "priceToBuy":7.2}
+    ]
+}
